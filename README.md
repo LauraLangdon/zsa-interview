@@ -1,6 +1,6 @@
 ## Who are you, and what do you do? What do you like to do outside of work? (Please feel free to link to your blog here, or anywhere else you'd like)
 
-![alt="White woman with dark brown curly hair, and green eyes wearing winged eyeliner, a light berry lipstick, gold necklace, and black cardigan.'](Profile2.jpeg)
+![alt="White woman with dark brown curly hair, and green eyes wearing winged eyeliner, a light berry lipstick, gold necklace, and black cardigan.'](me.png)
 
 Hi, I'm Laura! I'm a lifelong resident of the SF Bay Area (but am also a Canadian citizen), and my most recent job title is "Developer Advocate" but I'm currently funemployed following an acquisition-induced layoff from a company in the WebAssembly space, where I owned our docs. I consider myself a Professional Generalist and before I pivoted into the tech industry I was a math lecturer (but before I settled on math I switched majors between theater, English, Italian studies, astrophysics, fashion design, and computer science) . I'm fortunate to be able to take this time to explore all of my varied interests and see where I might like to go next when the job market recovers.
 
